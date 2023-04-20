@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Recap/static/css/main.69b7f2ba.css",
+    "main.js": "/Portfolio-Recap/static/js/main.dcf9aec9.js",
+    "static/js/787.562bae8d.chunk.js": "/Portfolio-Recap/static/js/787.562bae8d.chunk.js",
+    "static/media/bishal.jpg": "/Portfolio-Recap/static/media/bishal.c2b92f8b80b680cd6170.jpg",
+    "static/media/logo.svg": "/Portfolio-Recap/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio-Recap/index.html",
+    "main.69b7f2ba.css.map": "/Portfolio-Recap/static/css/main.69b7f2ba.css.map",
+    "main.dcf9aec9.js.map": "/Portfolio-Recap/static/js/main.dcf9aec9.js.map",
+    "787.562bae8d.chunk.js.map": "/Portfolio-Recap/static/js/787.562bae8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69b7f2ba.css",
+    "static/js/main.dcf9aec9.js"
+  ]
+}
